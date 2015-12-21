@@ -1,0 +1,1 @@
+jumptable.o: ../jumptable.s
